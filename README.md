@@ -17,8 +17,12 @@ vagrant global-status
 
 # 仮想マシンにssh接続
 vagrant ssh
+
+# 仮想マシンを削除
+vagrant destroy
 ```
 
 ## 参考資料
 https://qiita.com/oreo3@github/items/4054a4120ccc249676d9<br>
-https://qiita.com/0ta2/items/69c2378600bf8adaac5c
+https://qiita.com/0ta2/items/69c2378600bf8adaac5c<br>
+https://kekaku.addisteria.com/wp/20190123181923
