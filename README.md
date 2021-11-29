@@ -40,7 +40,7 @@ https://kekaku.addisteria.com/wp/20190123181923
 
 ### Vagrant + Docker + VSCode
 https://qiita.com/anfangd/items/63ab95a2005cb2d1f196<br>
-https://zenn.dev/jinwatanabe/articles/4f8e62aac86f386d799b
+https://gendosu.jp/archives/3439
 
 ### Ubuntu Docker環境構築
 https://qiita.com/tkyonezu/items/0f6da57eb2d823d2611d<br>
